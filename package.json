@@ -3,7 +3,7 @@
   "version": "1.4.0",
   "description": "A minimalist Markdown Editor",
   "main": "main.js",
-  "productName": "Markdownify",
+  "productName": "Mardownify",
   "scripts": {
     "start": "electron main.js",
     "build": "rm -rf dist && gulp build"
